@@ -1,0 +1,28 @@
+nav {
+    background-color: rgb(40, 61, 86);
+    width: 1440px;
+}
+
+nav ol {
+    display: flex;
+    gap: 40px;
+}
+
+nav ol li {
+    list-style: none;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+nav ol li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+nav ol li a:hover {
+    text-decoration: none;
+    color: orange;
+    font-size: 18px;
+}

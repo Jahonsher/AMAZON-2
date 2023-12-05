@@ -1,0 +1,63 @@
+.footernav {
+    background-color: rgb(40, 61, 86);
+    width: 1440px;
+    height: 60px;
+}
+
+.footernav h2 {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer {
+    background-color: rgb(35, 47, 62);
+    width: 1440px;
+    height: 650px;
+    display: flex;
+}
+
+.footer p {
+    color: white;
+    padding-top: 80px;
+    padding-left: 151px;
+}
+
+.footer-two {
+    display: flex;
+    margin-left: 350px;
+    margin-top: -240px;
+    width: 75px;
+    height: 25px;
+    gap: 150px;
+}
+
+hr {
+    margin-top: 50px;
+}
+
+.footernavbar ol li a {
+    text-decoration: none;
+    color: white;
+}
+
+.footernavbar ol li {
+    list-style: none;
+}
+
+
+.footernavbar ol {
+    display: flex;
+    gap: 40px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.footernavbar {
+    color: white;
+}
+
+.footernavbar ol li a:hover {
+    text-decoration: none;
+    color: orange;
+}
